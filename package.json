@@ -1,5 +1,5 @@
 {
-  "name": "mocha-jsdom-test",
+  "name": "mocha-jsdom-init",
   "version": "0.0.1",
   "description": "base mocha-jsdom project with travis & codecov.io support",
   "main": "index.js",

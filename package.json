@@ -1,7 +1,7 @@
 {
-  "name": "travis-mocha-jsdom-test",
-  "version": "1.0.0",
-  "description": "base travis-mocha-jsdom-test project",
+  "name": "mocha-jsdom-test",
+  "version": "0.0.1",
+  "description": "base mocha-jsdom project with travis & codecov.io support",
   "main": "index.js",
   "directories": {
     "test": "test"
